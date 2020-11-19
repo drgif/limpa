@@ -1,6 +1,6 @@
 (defproject limpa "0.1.0-SNAPSHOT"
   :description "A Clojure library for implementing Clean Architecture"
-  :url ""
+  :url "https://github.com/mwiederhold/limpa"
   :license {:name "MIT"
             :url  "https://opensource.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.10.0"]]
